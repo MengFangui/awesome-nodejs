@@ -5,7 +5,7 @@
 - [目录](#目录)
 - [官方资源](#官方资源)
 - [资源](#资源)
-- [GIT 仓库](#git-仓库)
+- [常用依赖包](#git-仓库)
 
 ## 官方资源
 
@@ -22,7 +22,7 @@
 
 ## GIT 仓库
 
-### 文本、字符串
+### 文本/字符串
 
 - 通用
   - [voca](https://github.com/panzerdp/voca) - 字符串处理。 ![](https://img.shields.io/github/stars/panzerdp/voca.svg?style=social&label=Star)
@@ -39,7 +39,7 @@
 
 - [mathjs](https://github.com/josdejong/mathjs) -为 js 和 node 的 math 库。 ![](https://img.shields.io/github/stars/josdejong/mathjs.svg?style=social&label=Star)
 
-### 日期、时间
+### 日期/时间
 
 - [moment](https://github.com/moment/moment) - 解析、校验、操作和显示日期。 ![](https://img.shields.io/github/stars/moment/moment.svg?style=social&label=Star)
 - [dayjs](https://github.com/iamkun/dayjs) - 仅 2KB，不可变的日期时间库。使用与 Moment.js 同样的 API，Moment.js 的替代库。 ![](https://img.shields.io/github/stars/iamkun/dayjs.svg?style=social&label=Star)
@@ -73,7 +73,7 @@
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密标准库。 ![](https://img.shields.io/github/stars/brix/crypto-js.svg?style=social&label=Star)
 - [sm-crypto](https://github.com/JuneAndGreen/sm-crypto) - sm2, sm3, sm4 的 JavaScript 实现。 ![](https://img.shields.io/github/stars/JuneAndGreen/sm-crypto.svg?style=social&label=Star)
 
-### 检测、判断
+### 检测/判断
 
 - [is.js](https://github.com/arasatasaygin/is.js) - 微型检查库。 ![](https://img.shields.io/github/stars/arasatasaygin/is.js.svg?style=social&label=Star)
 
@@ -93,7 +93,7 @@
 - [Ramda](https://github.com/ramda/ramda) - 实用程序库着重于通过自动计算和相反的参数顺序实现的灵活功能组合，避免数据变化。 ![](https://img.shields.io/github/stars/ramda/ramda.svg?style=social&label=Star)
 - [immer](https://github.com/immerjs/immer) - 函数式响应式编程。 ![](https://img.shields.io/github/stars/immerjs/immer.svg?style=social&label=Star)
 
-### Shell
+### 脚本执行
 
 - [zx](https://github.com/google/zx) - 用于编写更好 bash 脚本的工具(Node.js >= 14.13.1)。 ![](https://img.shields.io/github/stars/google/zx.svg?style=social&label=Star)
 - [shelljs](https://github.com/shelljs/shelljs) - 跨平台 Unix shell 命令，同步操作。 ![](https://img.shields.io/github/stars/shelljs/shelljs.svg?style=social&label=Star)
@@ -126,7 +126,7 @@
   - [chalk](https://github.com/chalk/chalk) - 命令行字符串样式美化工具。 ![](https://img.shields.io/github/stars/chalk/chalk.svg?style=social&label=Star)
   - [ora](https://github.com/sindresorhus/ora) - 优雅的命令行 loading 效果。 ![](https://img.shields.io/github/stars/sindresorhus/ora.svg?style=social&label=Star)
 
-### Node.js 管理工具
+### Node 管理工具
 
 - [nvm](https://github.com/nvm-sh/nvm) - Node.js 版本管理工具。 ![](https://img.shields.io/github/stars/nvm-sh/nvm.svg?style=social&label=Star)
 - [n](https://github.com/tj/n) - Node.js 版本管理工具。 ![](https://img.shields.io/github/stars/tj/n.svg?style=social&label=Star)
