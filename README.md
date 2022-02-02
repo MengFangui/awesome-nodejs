@@ -24,6 +24,8 @@
 
 ### 文本、字符串
 
+- 通用
+  - [voca](https://github.com/panzerdp/voca) - 字符串处理。 ![](https://img.shields.io/github/stars/panzerdp/voca.svg?style=social&label=Star)
 - 唯一 ID
   - [nanoid](https://github.com/ai/nanoid) - 小巧、安全、URL 友好、唯一的字符串 ID 生成器。 ![](https://img.shields.io/github/stars/ai/nanoid.svg?style=social&label=Star)
   - [uuid](https://github.com/uuidjs/uuid) - 在 JavaScript 中生成符合 RFC 规范的 UUID。 ![](https://img.shields.io/github/stars/uuidjs/uuid.svg?style=social&label=Star)
@@ -90,8 +92,8 @@
 ### Shell
 
 - [zx](https://github.com/google/zx) - 用于编写更好 bash 脚本的工具(Node.js >= 14.13.1)。 ![](https://img.shields.io/github/stars/google/zx.svg?style=social&label=Star)
-- [shelljs](https://github.com/shelljs/shelljs) - 跨平台 Unix shell 命令。 ![](https://img.shields.io/github/stars/shelljs/shelljs.svg?style=social&label=Star)
-- [execa](https://github.com/sindresorhus/execa) - 跨平台实现子进程执行 `child_process.{execFile,exec}`。 ![](https://img.shields.io/github/stars/sindresorhus/execa.svg?style=social&label=Star)
+- [shelljs](https://github.com/shelljs/shelljs) - 跨平台 Unix shell 命令，同步操作。 ![](https://img.shields.io/github/stars/shelljs/shelljs.svg?style=social&label=Star)
+- [execa](https://github.com/sindresorhus/execa) - 跨平台实现子进程执行，支持 Promise。 ![](https://img.shields.io/github/stars/sindresorhus/execa.svg?style=social&label=Star)
 
 ### 环境
 
@@ -147,6 +149,8 @@
 - 通用
 
   - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 为 `fs` 模块提供额外方法。 ![](https://img.shields.io/github/stars/jprichardson/node-fs-extra.svg?style=social&label=Star)
+  - [tmp-promise](https://www.npmjs.com/package/tmp-promise) - 创建临时目录或者文件
+  - [recursive-readdir](https://www.npmjs.com/package/recursive-readdir) - 递归读取文件
 
 - 删除
 
@@ -191,6 +195,7 @@
 
 - [PM2](https://github.com/Unitech/pm2) - 高级进程管理工具。 ![](https://img.shields.io/github/stars/Unitech/pm2.svg?style=social&label=Star)
 - [nodemon](https://github.com/remy/nodemon) - 监视应用程序中的更改并自动重新启动服务器。 ![](https://img.shields.io/github/stars/remy/nodemon.svg?style=social&label=Star)
+- [generic-pool](https://github.com/coopernurse/node-pool#readme) - 基于 Promise API 的通用资源池。可用于重用或限制昂贵资源(如数据库连接)的使用。 ![](https://img.shields.io/github/stars/coopernurse/node-pool.svg?style=social&label=Star)
 
 ### 代码校验 和 格式化工具
 
@@ -253,6 +258,7 @@
 - Mock 服务
 
   - [json-server](https://github.com/typicode/json-server) - 在不到 30 秒的时间内获得具有零编码的完整伪造的 REST API。 ![](https://img.shields.io/github/stars/typicode/json-server.svg?style=social&label=Star)
+  - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 在线的 postman。 ![](https://img.shields.io/github/stars/hoppscotch/hoppscotch.svg?style=social&label=Star)
   - [easy-mock](https://github.com/easy-mock/easy-mock) - 可视化，并且能快速生成模拟数据的持久化服务。 ![](https://img.shields.io/github/stars/easy-mock/easy-mock.svg?style=social&label=Star)
 
 - 代理
@@ -271,3 +277,18 @@
 
 - 解析器
   - [astexplorer](https://github.com/fkling/astexplorer) [网址](https://astexplorer.net/#/KJ8AjD6maa) - 使用多种解析器的 AST Web 可视化工具。 ![](https://img.shields.io/github/stars/fkling/astexplorer.svg?style=social&label=Star)
+
+### ES Module
+
+- esm
+  - [esm](https://github.com/standard-things/esm#readme) - ECMAScript 模块加载器。 ![](https://img.shields.io/github/stars/standard-things/esm.svg?style=social&label=Star)
+
+### 安全
+
+- xss
+  - [xss](https://www.npmjs.com/package/xss) - 防止 xss 攻击。 ![](https://img.shields.io/github/stars/leizongmin/js-xss.svg?style=social&label=Star)
+
+### 其他
+
+- 控制输入
+  - [Cleave](https://github.com/nosir/cleave.js) - 控制 input 输入。 ![](https://img.shields.io/github/stars/nosir/cleave.js.svg?style=social&label=Star)
