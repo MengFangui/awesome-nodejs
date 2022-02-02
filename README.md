@@ -22,9 +22,7 @@
 
 ## GIT 仓库
 
-### 文本/字符串
-
-- 通用
+### 文本、字符串
 
 - 唯一 ID
   - [nanoid](https://github.com/ai/nanoid) - 小巧、安全、URL 友好、唯一的字符串 ID 生成器。 ![](https://img.shields.io/github/stars/ai/nanoid.svg?style=social&label=Star)
@@ -39,7 +37,7 @@
 
 - [mathjs](https://github.com/josdejong/mathjs) -为 js 和 node 的 math 库。 ![](https://img.shields.io/github/stars/josdejong/mathjs.svg?style=social&label=Star)
 
-### 日期 和 时间
+### 日期、时间
 
 - [moment](https://github.com/moment/moment) - 解析、校验、操作和显示日期。 ![](https://img.shields.io/github/stars/moment/moment.svg?style=social&label=Star)
 - [dayjs](https://github.com/iamkun/dayjs) - 仅 2KB，不可变的日期时间库。使用与 Moment.js 同样的 API，Moment.js 的替代库。 ![](https://img.shields.io/github/stars/iamkun/dayjs.svg?style=social&label=Star)
@@ -50,7 +48,7 @@
 
 - [qs](https://github.com/ljharb/qs) - 请求字符串解析器。 ![](https://img.shields.io/github/stars/ljharb/qs.svg?style=social&label=Star)
 
-### 对象 / JSON / JSON Schema
+### JSON
 
 - [json5](https://github.com/json5/json5) - JSON5 是对 JSON 的扩展，其目的是能够对 JSON 解析和串行化更方便。 ![](https://img.shields.io/github/stars/json5/json5.svg?style=social&label=Star)
 
@@ -69,7 +67,7 @@
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密标准库。 ![](https://img.shields.io/github/stars/brix/crypto-js.svg?style=social&label=Star)
 - [sm-crypto](https://github.com/JuneAndGreen/sm-crypto) - sm2, sm3, sm4 的 JavaScript 实现。 ![](https://img.shields.io/github/stars/JuneAndGreen/sm-crypto.svg?style=social&label=Star)
 
-### 检测/判断
+### 检测、判断
 
 - [is.js](https://github.com/arasatasaygin/is.js) - 微型检查库。 ![](https://img.shields.io/github/stars/arasatasaygin/is.js.svg?style=social&label=Star)
 
@@ -110,7 +108,7 @@
 
   - [minimist](https://github.com/substack/minimist) - 命令行参数解析引擎。 ![](https://img.shields.io/github/stars/substack/minimist.svg?style=social&label=Star)
 
-- Prompt 提示
+- 提示
 
   - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 通用可交互命令行工具集合。 ![](https://img.shields.io/github/stars/SBoudrias/Inquirer.js.svg?style=social&label=Star)
 
@@ -233,7 +231,7 @@
 
 - [lru-cache](https://github.com/isaacs/node-lru-cache) - 最近最少使用的缓存（LRU）实现。 ![](https://img.shields.io/github/stars/isaacs/node-lru-cache.svg?style=social&label=Star)
 
-### 自动化 & 机器人流程自动化 - RPA
+### 自动化
 
 - [puppeteer](https://github.com/puppeteer/puppeteer) - 无头 Chrome Node.js API。 ![](https://img.shields.io/github/stars/puppeteer/puppeteer.svg?style=social&label=Star)
 
@@ -268,21 +266,6 @@
 
 - [cheerio](https://github.com/cheeriojs/cheerio) - 运行在服务器端，快速、灵活和精益的 jQuery 核心功能实现。 ![](https://img.shields.io/github/stars/cheeriojs/cheerio.svg?style=social&label=Star)
 - [jsdom](https://github.com/jsdom/jsdom) - Node.js 版 Web 标准实现。 ![](https://img.shields.io/github/stars/jsdom/jsdom.svg?style=social&label=Star)
-
-### 爬虫
-
-- [node-crawler](https://github.com/bda-research/node-crawler) - NodeJS Web 爬虫 + 服务端 jQuery。 ![](https://img.shields.io/github/stars/bda-research/node-crawler.svg?style=social&label=Star)
-- [x-ray](https://github.com/lapwinglabs/x-ray) - 具有分页的 Web 抓取爬虫。 ![](https://img.shields.io/github/stars/lapwinglabs/x-ray.svg?style=social&label=Star)
-- [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - 使用 Chrome 无头浏览器的分布式爬虫。 ![](https://img.shields.io/github/stars/yujiosaka/headless-chrome-crawler.svg?style=social&label=Star)
-- [node-osmosis](https://github.com/rchipka/node-osmosis) - Node.js 的 HTML / XML 解析器和 Web 抓取工具。 ![](https://img.shields.io/github/stars/rchipka/node-osmosis.svg?style=social&label=Star)
-- [scrape-it](https://github.com/IonicaBizau/scrape-it) - 适用于人类的 Node.js 抓取工具。 ![](https://img.shields.io/github/stars/IonicaBizau/scrape-it.svg?style=social&label=Star)
-- [scraperjs](https://github.com/ruipgil/scraperjs) - 完整而多功能的 Web 抓取器。 ![](https://img.shields.io/github/stars/ruipgil/scraperjs.svg?style=social&label=Star)
-- [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - 事件驱动的 Web 爬虫。 ![](https://img.shields.io/github/stars/cgiffard/node-simplecrawler.svg?style=social&label=Star)
-- [web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension) -实现为 Chrome 插件的 Web 数据抽取工具。 ![](https://img.shields.io/github/stars/martinsbalodis/web-scraper-chrome-extension.svg?style=social&label=Star)
-- [webster](https://github.com/zhuyingda/webster) - 一个可靠的 Web 爬虫框架，可以在网页中抓取 Ajax 和 js 呈现的内容。 ![](https://img.shields.io/github/stars/zhuyingda/webster.svg?style=social&label=Star)
-- [supercrawler](https://github.com/brendonboshell/supercrawler) - 定义自定义处理程序以解析内容。 遵守 robots.txt，速率限制和并发限制。 ![](https://img.shields.io/github/stars/brendonboshell/supercrawler.svg?style=social&label=Star)
-- [Squidwarc](https://github.com/n0tan3rd/squidwarc) - 高保真度，用户可编写脚本的归档爬虫程序，使用带头或不带头的 Chrome 或 Chromium。 ![](https://img.shields.io/github/stars/n0tan3rd/squidwarc.svg?style=social&label=Star)
-- [js-crawler](https://github.com/antivanov/js-crawler) - 适用于 Node.JS 的 Web 爬虫，同时支持 HTTP 和 HTTPS。 ![](https://img.shields.io/github/stars/antivanov/js-crawler.svg?style=social&label=Star)
 
 ### AST
 
