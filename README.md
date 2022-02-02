@@ -64,6 +64,10 @@
 
 - [svg-captcha](https://github.com/produck/svg-captcha) - Node.js 中生成 SVG 验证码。 ![](https://img.shields.io/github/stars/produck/svg-captcha.svg?style=social&label=Star)
 
+#### canvas
+
+- [fabric](https://github.com/fabricjs/fabric.js) -可以轻松使用 HTML5 画布元素。 ![](https://img.shields.io/github/stars/fabricjs/fabric.js.svg?style=social&label=Star)
+
 ### 加解密
 
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密标准库。 ![](https://img.shields.io/github/stars/brix/crypto-js.svg?style=social&label=Star)
@@ -136,6 +140,7 @@
   - [yarn](https://github.com/yarnpkg/berry) - 现代包管理工具，拆分成多个不同的包。 ![](https://img.shields.io/github/stars/yarnpkg/berry.svg?style=social&label=Star)
   - [nrm](https://github.com/Pana/nrm) - 快速切换 npm 服务商，如 npm、cnpm、taobao。 ![](https://img.shields.io/github/stars/Pana/nrm.svg?style=social&label=Star)
   - [cnpm](https://github.com/cnpm/cnpm) - NPM 中国区镜像客户端。 ![](https://img.shields.io/github/stars/cnpm/cnpm.svg?style=social&label=Star)
+  - [npx](https://github.com/npm/npx#readme) - 目前已经属于 npm cli，免安装快速执行 npm 依赖。
 
 - 语义化版本
   - [semver](https://github.com/npm/node-semver) - NPM 使用的 JavaScript 语义化版本号解析器。 ![](https://img.shields.io/github/stars/npm/node-semver.svg?style=social&label=Star)
@@ -151,6 +156,7 @@
   - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 为 `fs` 模块提供额外方法。 ![](https://img.shields.io/github/stars/jprichardson/node-fs-extra.svg?style=social&label=Star)
   - [tmp-promise](https://www.npmjs.com/package/tmp-promise) - 创建临时目录或者文件
   - [recursive-readdir](https://www.npmjs.com/package/recursive-readdir) - 递归读取文件
+  - [slash](https://github.com/sindresorhus/slash#readme) - 将 Windows 反斜杠路径转换为斜杠路径。![](https://img.shields.io/github/stars/sindresorhus/slash.svg?style=social&label=Star)
 
 - 删除
 
@@ -286,9 +292,14 @@
 ### 安全
 
 - xss
+  - [Helmet](https://helmetjs.github.io/) - 防止 xss 攻击。 ![](https://img.shields.io/github/stars/helmetjs/helmet.svg?style=social&label=Star)
   - [xss](https://www.npmjs.com/package/xss) - 防止 xss 攻击。 ![](https://img.shields.io/github/stars/leizongmin/js-xss.svg?style=social&label=Star)
+- csrf
+  - [csurf](https://github.com/expressjs/csurf#readme) - 防止 csrf 攻击。 ![](https://img.shields.io/github/stars/expressjs/csurf.svg?style=social&label=Star)
 
 ### 其他
 
 - 控制输入
   - [Cleave](https://github.com/nosir/cleave.js) - 控制 input 输入。 ![](https://img.shields.io/github/stars/nosir/cleave.js.svg?style=social&label=Star)
+- 正则表达式
+  - [any-rule](https://github.com/any86/any-rule) - 常用正则。 ![](https://img.shields.io/github/stars/any86/any-rule.svg?style=social&label=Star)
