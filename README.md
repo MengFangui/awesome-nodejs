@@ -111,118 +111,30 @@
 ### 文本/字符串
 
 - 通用
-  - [humps](https://github.com/domchristie/humps) - 将字符串 或 对象的Key 从下划线转化为驼峰。 ![](https://img.shields.io/github/stars/domchristie/humps.svg?style=social&label=Star)
-  - [dedent](https://github.com/dmnd/dedent) - ES6 模板字符串函数，用于去除多行字符串的缩进。 ![](https://img.shields.io/github/stars/dmnd/dedent.svg?style=social&label=Star)
-  - [camelcase](https://github.com/sindresorhus/camelcase) - 将破折号/点号/下划线/空格分隔的字符串转换为驼峰式, 案例：foo-bar→fooBar。 ![](https://img.shields.io/github/stars/sindresorhus/camelcase.svg?style=social&label=Star)
-  - [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的可视宽度-显示字符串所需的列数。 ![](https://img.shields.io/github/stars/sindresorhus/string-width.svg?style=social&label=Star)
-  - [decamelize](https://github.com/sindresorhus/decamelize) - 将驼峰式字符串转化成小写带分隔符带字符串, 案例：unicornRainbow → unicorn_rainbow ![](https://img.shields.io/github/stars/sindresorhus/decamelize.svg?style=social&label=Star)
-  - [detect-indent](https://github.com/sindresorhus/detect-indent) - 检查代码缩进。 ![](https://img.shields.io/github/stars/sindresorhus/detect-indent.svg?style=social&label=Star)
-  - [string-length](https://github.com/sindresorhus/string-length) - 获取字符串的真实长度 - 通过正确计算星号并忽略 ansi 转义码。 ![](https://img.shields.io/github/stars/sindresorhus/string-length.svg?style=social&label=Star)
-  - [strip-indent](https://github.com/sindresorhus/strip-indent) - 将字符串每一行中前置的空格删除。 ![](https://img.shields.io/github/stars/sindresorhus/strip-indent.svg?style=social&label=Star)
-  - [strip-bom](https://github.com/sindresorhus/strip-bom) - 从字符串中删除 UTF-8 字节顺序标记（BOM）。 ![](https://img.shields.io/github/stars/sindresorhus/strip-bom.svg?style=social&label=Star)
-  - [indent-string](https://github.com/sindresorhus/indent-string) - 将字符串每一行缩进。 ![](https://img.shields.io/github/stars/sindresorhus/indent-string.svg?style=social&label=Star)
-  - [redent](https://github.com/sindresorhus/redent) - 去除多余的缩进并缩进字符串。 ![](https://img.shields.io/github/stars/sindresorhus/redent.svg?style=social&label=Star)
-  - [normalize-newline](https://github.com/sindresorhus/normalize-newline) - Normalize the newline characters in a string to `\n`. ![](https://img.shields.io/github/stars/sindresorhus/normalize-newline.svg?style=social&label=Star)
-  - [min-indent](https://github.com/jamiebuilds/min-indent) - 取每一行最少前置空格数。 ![](https://img.shields.io/github/stars/jamiebuilds/min-indent.svg?style=social&label=Star)
-  - [trim-right](https://github.com/sindresorhus/trim-right) - 与 String#trim() 类似，但仅删除右侧的空格。 ![](https://img.shields.io/github/stars/sindresorhus/trim-right.svg?style=social&label=Star)
-  - [splice-string](https://github.com/sindresorhus/splice-string) - 移除或替换字符串的一部分。类似`Array#splice`. ![](https://img.shields.io/github/stars/sindresorhus/splice-string.svg?style=social&label=Star)
-
-
-- 国际化
-  - [i18next](https://github.com/i18next/i18next) - 国际化框架。 ![](https://img.shields.io/github/stars/i18next/i18next.svg?style=social&label=Star)
-  - [i18n-node](https://github.com/mashpie/i18n-node) - 具有动态 JSON 存储的简单翻译模块。 ![](https://img.shields.io/github/stars/mashpie/i18n-node.svg?style=social&label=Star)
-  - [babelfish](https://github.com/nodeca/babelfish) - 适用于 JavaScript 的人性化 i18n（node.js +浏览器）。 ![](https://img.shields.io/github/stars/nodeca/babelfish.svg?style=social&label=Star)
 
 - 唯一 ID
   - [nanoid](https://github.com/ai/nanoid) - 小巧、安全、URL 友好、唯一的字符串 ID 生成器。 ![](https://img.shields.io/github/stars/ai/nanoid.svg?style=social&label=Star)
   - [uuid](https://github.com/uuidjs/uuid) - 在 JavaScript 中生成符合 RFC 规范的 UUID。 ![](https://img.shields.io/github/stars/uuidjs/uuid.svg?style=social&label=Star)
-  - [shortid](https://github.com/dylang/shortid) - 短 ID 生成器。 网址友好。 不可预测的。 集群兼容。 ![](https://img.shields.io/github/stars/dylang/shortid.svg?style=social&label=Star)
-  - [cuid](https://github.com/ericelliott/cuid) - 针对水平扩展和性能优化的抗冲突 ids。 ![](https://img.shields.io/github/stars/ericelliott/cuid.svg?style=social&label=Star)
-  - [ulid](https://github.com/ulid/javascript) - 通用唯一词典分类排序标识符。 ![](https://img.shields.io/github/stars/ulid/javascript.svg?style=social&label=Star)
-  - [uuid-js](https://github.com/pnegri/uuid-js) - 用于生成和解析 UUID、TimeUUID 并根据日期生成 TimeUUID 以供范围选择。 ![](https://img.shields.io/github/stars/pnegri/uuid-js.svg?style=social&label=Star)
-  - [pure-uuid](https://github.com/rse/pure-uuid) - 基于纯 JavaScript 全局唯一 ID(UUID)。 ![](https://img.shields.io/github/stars/rse/pure-uuid.svg?style=social&label=Star)
-  - [lsp-uuid](https://github.com/ryouaki/lsp-uuid) - 一个基于 SnowFlake 的 uuid 生成器，用于浏览器和 Nodejs。 保持序列并且可以反序列化。 ![](https://img.shields.io/github/stars/ryouaki/lsp-uuid.svg?style=social&label=Star)
-
-
-- 编码/解码
-  - [he](https://github.com/mathiasbynens/he) - HTML 实体编码器/解码器。 ![](https://img.shields.io/github/stars/mathiasbynens/he.svg?style=social&label=Star)
-  - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - 转换字符编码。 ![](https://img.shields.io/github/stars/ashtuchkin/iconv-lite.svg?style=social&label=Star)
-  - [jschardet](https://github.com/aadsm/jschardet) - JavaScript 编码自动识别 (Python 版 chardet 的实现)。 ![](https://img.shields.io/github/stars/aadsm/jschardet.svg?style=social&label=Star)
-
-- 差异对比
-  - [jsdiff](https://github.com/kpdecker/jsdiff) - 一种 JavaScript 文本差异实现。 ![](https://img.shields.io/github/stars/kpdecker/jsdiff.svg?style=social&label=Star)
-  - [recursive-diff](https://github.com/cosmicanant/recursive-diff) - 查找两个 JavaScript 对象的差异，支持数组、数字、日期和其他原始数据类型。 ![](https://img.shields.io/github/stars/cosmicanant/recursive-diff.svg?style=social&label=Star)
-  - [json0-ot-diff](https://github.com/kbadk/json0-ot-diff) - 查找两个 JSON 对象之间的差异，并根据 JSON0 OT Type 生成将第一个对象转换为第二个对象的操作转换/值(OT)操作。 ![](https://img.shields.io/github/stars/kbadk/json0-ot-diff.svg?style=social&label=Star)
-
-- 随机字符串
-  - [generate-password](https://github.com/brendanashworth/generate-password) - 用于生成加密安全密码的 NodeJS 库。 ![](https://img.shields.io/github/stars/brendanashworth/generate-password.svg?style=social&label=Star)
-  - [randomatic](https://github.com/jonschlinkert/randomatic) - 使用简单的选项来指定长度和使用数字、字母数字、字母、特殊或自定义字符的模式，轻松生成密码等随机字符串。(源自`generate-password`) ![](https://img.shields.io/github/stars/jonschlinkert/randomatic.svg?style=social&label=Star)
-
-- 其他
-  - [StegCloak](https://github.com/kurolabs/stegcloak) - 基于纯 JavaScript 开发的隐写功能模块，StegCloak 可以对文本中的机密信息进行压缩和加密，然后再使用特殊的 Unicode 不可见字符来隐藏它。 ![](https://img.shields.io/github/stars/kurolabs/stegcloak.svg?style=social&label=Star)
-  - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - 规范视觉上相似的 unicode 字符。 ![](https://img.shields.io/github/stars/nodeca/unhomoglyph.svg?style=social&label=Star)
 
 ### 数字
 
 - [Numeral.js](https://github.com/adamwdraper/Numeral-js) - 格式化和操作数字。 ![](https://img.shields.io/github/stars/adamwdraper/Numeral-js.svg?style=social&label=Star)
 - [bignumber.js](https://github.com/MikeMcl/bignumber.js) - 用于任意精度十进制和非十进制算术的 JavaScript 库。 ![](https://img.shields.io/github/stars/MikeMcl/bignumber.js.svg?style=social&label=Star)
-- [decimal.js](https://github.com/MikeMcl/decimal.js) - JavaScript 的任意精度的十进制类型。 ![](https://img.shields.io/github/stars/MikeMcl/decimal.js.svg?style=social&label=Star)
-- [big.js](https://github.com/MikeMcl/big.js) - 一个小型，快速的 JavaScript 库，用于任意精度的十进制算术运算。 ![](https://img.shields.io/github/stars/MikeMcl/big.js.svg?style=social&label=Star)
-- [random-js](https://github.com/ckknight/random-js) - 一个 JavaScript 随机数生成库。 ![](https://img.shields.io/github/stars/ckknight/random-js.svg?style=social&label=Star)
-- [round-to](https://github.com/sindresorhus/round-to) - 将数字四舍五入到指定的小数位数：`1.234`→`1.2`。 ![](https://img.shields.io/github/stars/sindresorhus/round-to.svg?style=social&label=Star)
-- [unique-random](https://github.com/sindresorhus/unique-random) - 生成连续唯一的随机数。 ![](https://img.shields.io/github/stars/sindresorhus/unique-random.svg?style=social&label=Star)
-- [random-int](https://github.com/sindresorhus/random-int) - 生成随机整数。 ![](https://img.shields.io/github/stars/sindresorhus/random-int.svg?style=social&label=Star)
-- [random-float](https://github.com/sindresorhus/random-float) - 生成随机浮点数。 ![](https://img.shields.io/github/stars/sindresorhus/random-float.svg?style=social&label=Star)
 
 ### 数学运算
 
-- [mathjs](https://github.com/josdejong/mathjs) - 广泛的数学运算库。 ![](https://img.shields.io/github/stars/josdejong/mathjs.svg?style=social&label=Star)
-- [ndarray](https://github.com/scijs/ndarray) - 多维数组。 ![](https://img.shields.io/github/stars/scijs/ndarray.svg?style=social&label=Star)
-- [algebra](https://github.com/fibo/algebra) - 代数结构。 ![](https://img.shields.io/github/stars/fibo/algebra.svg?style=social&label=Star)
-- [multimath](https://github.com/nodeca/multimath) - 在 WebAssembly 和 JS 中进行快速图像数学运算。 ![](https://img.shields.io/github/stars/nodeca/multimath.svg?style=social&label=Star)
+- [mathjs](https://github.com/josdejong/mathjs) -为js和node的math库。 ![](https://img.shields.io/github/stars/josdejong/mathjs.svg?style=social&label=Star)
 
 ### 日期 和 时间
 
 - [moment](https://github.com/moment/moment) - 解析、校验、操作和显示日期。 ![](https://img.shields.io/github/stars/moment/moment.svg?style=social&label=Star)
 - [dayjs](https://github.com/iamkun/dayjs) - 仅 2KB，不可变的日期时间库。使用与 Moment.js 同样的 API，Moment.js 的替代库。 ![](https://img.shields.io/github/stars/iamkun/dayjs.svg?style=social&label=Star)
-- [date-fns](https://github.com/date-fns/date-fns) - 现代 JavaScript 日期工具库。 ![](https://img.shields.io/github/stars/date-fns/date-fns.svg?style=social&label=Star)
-- [luxon](https://github.com/moment/luxon) - 用于处理日期和时间的库。 ![](https://img.shields.io/github/stars/moment/luxon.svg?style=social&label=Star)
 - [timeago.js](https://github.com/hustcc/timeago.js) - timeago.js 是一个很小的（2.0 kb）库，用于使用 *** time ago 语句格式化日期。 ![](https://img.shields.io/github/stars/hustcc/timeago.js.svg?style=social&label=Star)
 - [ms](https://github.com/vercel/ms) - 毫秒转换工具。 ![](https://img.shields.io/github/stars/vercel/ms.svg?style=social&label=Star)
-- [dateformat](https://github.com/felixge/node-dateformat) - 日期格式化。 ![](https://img.shields.io/github/stars/felixge/node-dateformat.svg?style=social&label=Star)
-- [pretty-ms](https://github.com/sindresorhus/pretty-ms) - 将毫秒转换为人类可读的字符串，如: `1337000000` → `15d 11h 23m 20s`。 ![](https://img.shields.io/github/stars/sindresorhus/pretty-ms.svg?style=social&label=Star)
-- [strftime](https://github.com/samsonjs/strftime) - JavaScript 版时间格式化 Strftime。 ![](https://img.shields.io/github/stars/samsonjs/strftime.svg?style=social&label=Star)
-- [node-microtime](https://github.com/wadey/node-microtime) - 以微秒为单位获取当前时间。 ![](https://img.shields.io/github/stars/wadey/node-microtime.svg?style=social&label=Star)
-- [date-utils](https://github.com/JerrySievert/date-utils) - 用于 Node.js 和浏览器的日期垫片（Polyfills）。 ![](https://img.shields.io/github/stars/JerrySievert/date-utils.svg?style=social&label=Star)
-- [pretty-hrtime](https://github.com/robrich/pretty-hrtime) - 将 process.hrtime()的结果转换为人可读性的字符串。 ![](https://img.shields.io/github/stars/robrich/pretty-hrtime.svg?style=social&label=Star)
-- [humanize-ms](https://github.com/node-modules/humanize-ms) - 将人类可读的时间转换为毫秒。 ![](https://img.shields.io/github/stars/node-modules/humanize-ms.svg?style=social&label=Star)
-
-### 正则/通配符匹配
-
-- [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - 将路径字符串（如`/user/:name`）转化为正则。 ![](https://img.shields.io/github/stars/pillarjs/path-to-regexp.svg?style=social&label=Star)
-- [minimatch](https://github.com/isaacs/minimatch) - 最小匹配工具。 ![](https://img.shields.io/github/stars/isaacs/minimatch.svg?style=social&label=Star)
-- [micromatch](https://github.com/micromatch/micromatch) - 高度优化的通配符和全局匹配库。更快，直接替换到 minimatch 和 multimatch。由 webpack、babel core、yarn、jest、browser-sync、documentation.js、stylelint、nyc、ava 以及许多其他资源使用！ ![](https://img.shields.io/github/stars/micromatch/micromatch.svg?style=social&label=Star)
-- [randexp.js](https://github.com/fent/randexp.js) - 根据给定的正则表达式，生成随机字符串。 ![](https://img.shields.io/github/stars/fent/randexp.js.svg?style=social&label=Star)
-- [safe-regex](https://github.com/substack/safe-regex) - 检测可能是灾难性的、指数时间的正则表达式。 ![](https://img.shields.io/github/stars/substack/safe-regex.svg?style=social&label=Star)
-- [matcher](https://github.com/sindresorhus/matcher) - 简单通配符匹配。 ![](https://img.shields.io/github/stars/sindresorhus/matcher.svg?style=social&label=Star)
-- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - 转义特殊正则字符。 ![](https://img.shields.io/github/stars/sindresorhus/escape-string-regexp.svg?style=social&label=Star)
-- [multimatch](https://github.com/sindresorhus/multimatch) - 扩展 minimatch.match() 以支持多种模式。 ![](https://img.shields.io/github/stars/sindresorhus/multimatch.svg?style=social&label=Star)
-- [execall](https://github.com/sindresorhus/execall) - 在字符串中查找多个 RegExp 匹配项。 ![](https://img.shields.io/github/stars/sindresorhus/execall.svg?style=social&label=Star)
 
 ### URL
 
-- [URI.js](https://github.com/medialize/URI.js) - URL 转换库。 ![](https://img.shields.io/github/stars/medialize/URI.js.svg?style=social&label=Star)
 - [qs](https://github.com/ljharb/qs) - 请求字符串解析器。 ![](https://img.shields.io/github/stars/ljharb/qs.svg?style=social&label=Star)
-- [query-string](https://github.com/sindresorhus/query-string) - 解析和字符串化 URL 查询字符串。 ![](https://img.shields.io/github/stars/sindresorhus/query-string.svg?style=social&label=Star)
-- [url-parse](https://github.com/unshiftio/url-parse) - 轻量 URL 解析器，可跨 Node.js 和浏览器环境无缝运行。 ![](https://img.shields.io/github/stars/unshiftio/url-parse.svg?style=social&label=Star)
-- [normalize-url](https://github.com/sindresorhus/normalize-url) - 规范化 URL. ![](https://img.shields.io/github/stars/sindresorhus/normalize-url.svg?style=social&label=Star)
-- [url-pattern](https://github.com/snd/url-pattern) - 比正则表达式更易匹配 URL 和其他字符串，将字符串转化成数据 或 将数据转换成字符串。 ![](https://img.shields.io/github/stars/snd/url-pattern.svg?style=social&label=Star)
-- [native-url](https://github.com/GoogleChromeLabs/native-url) - 使用内建 URL API 实现的 NodeJS URL 模块。 ![](https://img.shields.io/github/stars/GoogleChromeLabs/native-url.svg?style=social&label=Star)
-- [url-join](https://github.com/jfromaniello/url-join) - 将所有参数连接在一起，并将结果 url 规范化。 ![](https://img.shields.io/github/stars/jfromaniello/url-join.svg?style=social&label=Star)
-- [humanize-url](https://github.com/sindresorhus/humanize-url) - 使 URL 更可读: http://sindresorhus.com → sindresorhus.com。 ![](https://img.shields.io/github/stars/sindresorhus/humanize-url.svg?style=social&label=Star)
-- [parseurl](https://github.com/pillarjs/parseurl) - 使用记忆化方式解析 URL. ![](https://img.shields.io/github/stars/pillarjs/parseurl.svg?style=social&label=Star)
-- [file-url](https://github.com/sindresorhus/file-url) - 将文件路径转化为文件 URL: `unicorn.jpg` → `file:///Users/sindresorhus/unicorn.jpg` ![](https://img.shields.io/github/stars/sindresorhus/file-url.svg?style=social&label=Star)
-- [encodeurl](https://github.com/pillarjs/encodeurl) - 将 URL 编码为"百分比"形式，不编码已编码部分。 ![](https://img.shields.io/github/stars/pillarjs/encodeurl.svg?style=social&label=Star)
 
 ### 对象 / JSON / JSON Schema
 
