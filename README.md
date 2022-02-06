@@ -54,11 +54,12 @@
 
 - [json5](https://github.com/json5/json5) - JSON5 是对 JSON 的扩展，其目的是能够对 JSON 解析和串行化更方便。 ![](https://img.shields.io/github/stars/json5/json5.svg?style=social&label=Star)
 
-### 图像处理
+### 图像、图片处理
 
 - [sharp](https://github.com/lovell/sharp) - 调整 JPEG，PNG，WebP 和 TIFF 格式图像大小的最快模块。 ![](https://img.shields.io/github/stars/lovell/sharp.svg?style=social&label=Star)
 - [gm](https://github.com/aheckmann/gm) - GraphicsMagick 和 ImageMagick 封装。 ![](https://img.shields.io/github/stars/aheckmann/gm.svg?style=social&label=Star)
 - [qrcode](https://github.com/soldair/node-qrcode) - 二维码和条形码生成器。 ![](https://img.shields.io/github/stars/soldair/node-qrcode.svg?style=social&label=Star)
+- [FileSaver](https://github.com/eligrey/FileSaver.js/) - 客户端保存图片的方案（对于超过 blob 限制的图片请使用 StreamSaver.js）。 ![](https://img.shields.io/github/stars/eligrey/FileSaver.js.svg?style=social&label=Star)
 
 #### SVG
 
@@ -303,3 +304,4 @@
   - [Cleave](https://github.com/nosir/cleave.js) - 控制 input 输入。 ![](https://img.shields.io/github/stars/nosir/cleave.js.svg?style=social&label=Star)
 - 正则表达式
   - [any-rule](https://github.com/any86/any-rule) - 常用正则。 ![](https://img.shields.io/github/stars/any86/any-rule.svg?style=social&label=Star)
+- [resolve](https://github.com/browserify/resolve#readme) - 处理 node_modules 的模块。 ![](https://img.shields.io/github/stars/browserify/resolve.svg?style=social&label=Star)
