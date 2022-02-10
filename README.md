@@ -250,6 +250,7 @@
 ### 压缩解压
 
 - [jszip](https://github.com/Stuk/jszip) - 使用 JavaScript 创建、读取、编辑.zip 文件。 ![](https://img.shields.io/github/stars/Stuk/jszip.svg?style=social&label=Star)
+- [terser](github.com/terser/terser) - JavaScript 压缩工具。 ![](https://img.shields.io/github/stars/terser/terser.svg?style=social&label=Star)
 
 ### 最小化
 
