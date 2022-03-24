@@ -158,6 +158,8 @@
   - [tmp-promise](https://www.npmjs.com/package/tmp-promise) - 创建临时目录或者文件
   - [recursive-readdir](https://www.npmjs.com/package/recursive-readdir) - 递归读取文件
   - [slash](https://github.com/sindresorhus/slash#readme) - 将 Windows 反斜杠路径转换为斜杠路径。![](https://img.shields.io/github/stars/sindresorhus/slash.svg?style=social&label=Star)
+  - [find-up](github.com/sindresorhus/find-up) - 通过遍历父目录来查找文件或目录。
+  - [pkg-dir](github.com/sindresorhus/pkg-dir) - 查找node.js项目或npm包的根目录。
 
 - 删除
 
