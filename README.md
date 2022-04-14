@@ -308,3 +308,5 @@
 - 正则表达式
   - [any-rule](https://github.com/any86/any-rule) - 常用正则。 ![](https://img.shields.io/github/stars/any86/any-rule.svg?style=social&label=Star)
 - [resolve](https://github.com/browserify/resolve#readme) - 处理 node_modules 的模块,也可以使用node内置模块require.resolve。 ![](https://img.shields.io/github/stars/browserify/resolve.svg?style=social&label=Star)
+- [open](https://github.com/sindresorhus/open) - 打开url、文件和可执行文件，支持扩平台。 ![](https://img.shields.io/github/stars/sindresorhus/open.svg?style=social&label=Star)
+
