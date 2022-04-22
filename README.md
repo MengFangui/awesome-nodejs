@@ -159,7 +159,7 @@
   - [recursive-readdir](https://www.npmjs.com/package/recursive-readdir) - 递归读取文件
   - [slash](https://github.com/sindresorhus/slash#readme) - 将 Windows 反斜杠路径转换为斜杠路径。![](https://img.shields.io/github/stars/sindresorhus/slash.svg?style=social&label=Star)
   - [find-up](github.com/sindresorhus/find-up) - 通过遍历父目录来查找文件或目录。
-  - [pkg-dir](github.com/sindresorhus/pkg-dir) - 查找node.js项目或npm包的根目录。
+  - [pkg-dir](github.com/sindresorhus/pkg-dir) - 查找 node.js 项目或 npm 包的根目录。
 
 - 删除
 
@@ -307,6 +307,6 @@
   - [Cleave](https://github.com/nosir/cleave.js) - 控制 input 输入。 ![](https://img.shields.io/github/stars/nosir/cleave.js.svg?style=social&label=Star)
 - 正则表达式
   - [any-rule](https://github.com/any86/any-rule) - 常用正则。 ![](https://img.shields.io/github/stars/any86/any-rule.svg?style=social&label=Star)
-- [resolve](https://github.com/browserify/resolve#readme) - 处理 node_modules 的模块,也可以使用node内置模块require.resolve。 ![](https://img.shields.io/github/stars/browserify/resolve.svg?style=social&label=Star)
-- [open](https://github.com/sindresorhus/open) - 打开url、文件和可执行文件，支持扩平台。 ![](https://img.shields.io/github/stars/sindresorhus/open.svg?style=social&label=Star)
-
+- [resolve](https://github.com/browserify/resolve#readme) - 处理 node_modules 的模块,也可以使用 node 内置模块 require.resolve。 ![](https://img.shields.io/github/stars/browserify/resolve.svg?style=social&label=Star)
+- [open](https://github.com/sindresorhus/open) - 打开 url、文件和可执行文件，支持扩平台。 ![](https://img.shields.io/github/stars/sindresorhus/open.svg?style=social&label=Star)
+- [node-notifier](hhttps://github.com/mikaelbr/node-notifier) - 使用 Node.js 发送跨平台通知。 ![](https://img.shields.io/github/stars/mikaelbr/node-notifier.svg?style=social&label=Star)
