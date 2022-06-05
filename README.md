@@ -173,6 +173,7 @@
 - 查找
   - [glob](https://github.com/isaacs/node-glob) - Node.js 版 glob 功能。 ![](https://img.shields.io/github/stars/isaacs/node-glob.svg?style=social&label=Star)
   - [globby](https://github.com/sindresorhus/globby) - 基于 fast-glob，但添加了很多有用的特性。 ![](https://img.shields.io/github/stars/sindresorhus/globby.svg?style=social&label=Star)
+  - [fast-glob](https://github.com/smrmlnc/fast-glob) - 该软件包提供了遍历文件系统和返回路径名的方法。 ![](https://img.shields.io/github/stars/mrmlnc/fast-glob.svg?style=social&label=Star)
 
 ### 解析工具
 
@@ -253,6 +254,7 @@
 
 - [jszip](https://github.com/Stuk/jszip) - 使用 JavaScript 创建、读取、编辑.zip 文件。 ![](https://img.shields.io/github/stars/Stuk/jszip.svg?style=social&label=Star)
 - [terser](github.com/terser/terser) - JavaScript 压缩工具。 ![](https://img.shields.io/github/stars/terser/terser.svg?style=social&label=Star)
+- [Archiver](https://github.com/archiverjs/node-archiver) - JavaScript 压缩工具。 ![](https://img.shields.io/github/stars/archiverjs/node-archiver.svg?style=social&label=Star)
 
 ### 最小化
 
@@ -310,3 +312,6 @@
 - [resolve](https://github.com/browserify/resolve#readme) - 处理 node_modules 的模块,也可以使用 node 内置模块 require.resolve。 ![](https://img.shields.io/github/stars/browserify/resolve.svg?style=social&label=Star)
 - [open](https://github.com/sindresorhus/open) - 打开 url、文件和可执行文件，支持扩平台。 ![](https://img.shields.io/github/stars/sindresorhus/open.svg?style=social&label=Star)
 - [node-notifier](hhttps://github.com/mikaelbr/node-notifier) - 使用 Node.js 发送跨平台通知。 ![](https://img.shields.io/github/stars/mikaelbr/node-notifier.svg?style=social&label=Star)
+- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - JavaScript 的强大免费混淆器。 ![](https://img.shields.io/github/stars/javascript-obfuscator/javascript-obfuscator.svg?style=social&label=Star)
+- [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 相等判断。 ![](https://img.shields.io/github/stars/epoberezkin/fast-deep-equal.svg?style=social&label=Star)
+- [normalize-url](https://github.com/sindresorhus/normalize-url) - url 格式化。 ![](https://img.shields.io/github/stars/sindresorhus/normalize-url.svg?style=social&label=Star)
