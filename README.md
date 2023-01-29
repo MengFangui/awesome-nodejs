@@ -315,3 +315,4 @@
 - [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - JavaScript 的强大免费混淆器。 ![](https://img.shields.io/github/stars/javascript-obfuscator/javascript-obfuscator.svg?style=social&label=Star)
 - [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 相等判断。 ![](https://img.shields.io/github/stars/epoberezkin/fast-deep-equal.svg?style=social&label=Star)
 - [normalize-url](https://github.com/sindresorhus/normalize-url) - url 格式化。 ![](https://img.shields.io/github/stars/sindresorhus/normalize-url.svg?style=social&label=Star)
+- [simple-git](https://github.com/steveukx/git-js) - git api。 ![](https://img.shields.io/github/stars/steveukx/git-js.svg?style=social&label=Star)
