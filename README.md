@@ -118,6 +118,7 @@
 - 提示
 
   - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 通用可交互命令行工具集合。 ![](https://img.shields.io/github/stars/SBoudrias/Inquirer.js.svg?style=social&label=Star)
+  - [clack](https://github.com/natemoo-re/clack) - 轻松构建漂亮的命令行应用程序。 ![](https://img.shields.io/github/stars/natemoo-re/clack.svg?style=social&label=Star)
 
 - 进度条
 
@@ -316,3 +317,5 @@
 - [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 相等判断。 ![](https://img.shields.io/github/stars/epoberezkin/fast-deep-equal.svg?style=social&label=Star)
 - [normalize-url](https://github.com/sindresorhus/normalize-url) - url 格式化。 ![](https://img.shields.io/github/stars/sindresorhus/normalize-url.svg?style=social&label=Star)
 - [simple-git](https://github.com/steveukx/git-js) - git api。 ![](https://img.shields.io/github/stars/steveukx/git-js.svg?style=social&label=Star)
+- [lru-cache](https://github.com/isaacs/node-lru-cache) - lru 算法删除最近最少使用的项的缓存对象。 ![](https://img.shields.io/github/stars/sisaacs/node-lru-cache.svg?style=social&label=Star)
+- [madge](https://github.com/pahen/madge) - Madge 是一个开发工具，用于生成模块依赖关系的可视化图，查找循环依赖关系，并提供其他有用信息。。 ![](https://img.shields.io/github/stars/pahen/madge.svg?style=social&label=Star)
