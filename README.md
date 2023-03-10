@@ -60,6 +60,7 @@
 - [gm](https://github.com/aheckmann/gm) - GraphicsMagick 和 ImageMagick 封装。 ![](https://img.shields.io/github/stars/aheckmann/gm.svg?style=social&label=Star)
 - [qrcode](https://github.com/soldair/node-qrcode) - 二维码和条形码生成器。 ![](https://img.shields.io/github/stars/soldair/node-qrcode.svg?style=social&label=Star)
 - [FileSaver](https://github.com/eligrey/FileSaver.js/) - 客户端保存图片的方案（对于超过 blob 限制的图片请使用 StreamSaver.js）。 ![](https://img.shields.io/github/stars/eligrey/FileSaver.js.svg?style=social&label=Star)
+- [blurhash](https://github.com/woltapp/blurhash) - 图片模糊化。 ![](https://img.shields.io/github/stars/woltapp/blurhash.svg?style=social&label=Star)
 
 #### SVG
 
@@ -318,4 +319,5 @@
 - [normalize-url](https://github.com/sindresorhus/normalize-url) - url 格式化。 ![](https://img.shields.io/github/stars/sindresorhus/normalize-url.svg?style=social&label=Star)
 - [simple-git](https://github.com/steveukx/git-js) - git api。 ![](https://img.shields.io/github/stars/steveukx/git-js.svg?style=social&label=Star)
 - [lru-cache](https://github.com/isaacs/node-lru-cache) - lru 算法删除最近最少使用的项的缓存对象。 ![](https://img.shields.io/github/stars/sisaacs/node-lru-cache.svg?style=social&label=Star)
-- [madge](https://github.com/pahen/madge) - Madge 是一个开发工具，用于生成模块依赖关系的可视化图，查找循环依赖关系，并提供其他有用信息。。 ![](https://img.shields.io/github/stars/pahen/madge.svg?style=social&label=Star)
+- [madge](https://github.com/pahen/madge) - Madge 是一个开发工具，用于生成模块依赖关系的可视化图，查找循环依赖关系，并提供其他有用信息。 ![](https://img.shields.io/github/stars/pahen/madge.svg?style=social&label=Star)
+- [jspdf](https://github.com/mrrio/jspdf) - 生成 pdf 文件。 ![](https://img.shields.io/github/stars/mrrio/jspdf.svg?style=social&label=Star)
