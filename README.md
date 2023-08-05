@@ -162,6 +162,7 @@
   - [slash](https://github.com/sindresorhus/slash#readme) - 将 Windows 反斜杠路径转换为斜杠路径。![](https://img.shields.io/github/stars/sindresorhus/slash.svg?style=social&label=Star)
   - [find-up](github.com/sindresorhus/find-up) - 通过遍历父目录来查找文件或目录。
   - [pkg-dir](github.com/sindresorhus/pkg-dir) - 查找 node.js 项目或 npm 包的根目录。
+  - [StreamSaver](https://github.com/jimmywarting/StreamSaver.js) - 根据我搜索的结果，StreamSaver.js 是一个 JavaScript 库，它可以将流数据直接异步写入文件系统，而不需要占用大量的内存或受到 Blob 大小的限制（StreamSaver.js 可以下载大文件。它可以处理超过 2GB 的文件，而不需要占用大量的内存或受到 Blob 大小的限制 。）下载大文件，如超过 2GB 的数据文件；下载多个文件的压缩包或合并文件；下载服务器端返回的流数据 3
 
 - 删除
 
@@ -185,7 +186,7 @@
 
 - CSV
 
-  - [PapaParse](https://github.com/mholt/PapaParse) - 快速而强大的 CSV（分隔文本）解析器，可以优雅地处理大文件和格式错误的输入。 ![](https://img.shields.io/github/stars/mholt/PapaParse.svg?style=social&label=Star)
+  - [PapaParse](https://github.com/mholt/PapaParse) - 快速而强大的 CSV（分隔文本）解析器，可以优雅地处理大文件和格式错误的输入，CSV 和 JSON 互转。 ![](https://img.shields.io/github/stars/mholt/PapaParse.svg?style=social&label=Star)
 
 - HTML
 
@@ -237,6 +238,7 @@
 
 ### 定时任务
 
+- [cron](https://github.com/kelektiv/node-cron) - 允许您按计划执行某些任务。 ![](https://img.shields.io/github/stars/kelektiv/node-cron.svg?style=social&label=Star)
 - [node-schedule](https://github.com/node-schedule/node-schedule) - 类 Cron 和不类似 Cron 的 Node.js 定时任务。 ![](https://img.shields.io/github/stars/node-schedule/node-schedule.svg?style=social&label=Star)
 
 ### 调试
@@ -321,3 +323,7 @@
 - [lru-cache](https://github.com/isaacs/node-lru-cache) - lru 算法删除最近最少使用的项的缓存对象。 ![](https://img.shields.io/github/stars/sisaacs/node-lru-cache.svg?style=social&label=Star)
 - [madge](https://github.com/pahen/madge) - Madge 是一个开发工具，用于生成模块依赖关系的可视化图，查找循环依赖关系，并提供其他有用信息。 ![](https://img.shields.io/github/stars/pahen/madge.svg?style=social&label=Star)
 - [jspdf](https://github.com/mrrio/jspdf) - 生成 pdf 文件。 ![](https://img.shields.io/github/stars/mrrio/jspdf.svg?style=social&label=Star)
+- [web-vitals](https://github.com/GoogleChrome/web-vitals) - chrome 官方性能检测工具。 ![](https://img.shields.io/github/stars/GoogleChrome/web-vitals.svg?style=social&label=Star)
+- [nodemailer](https://github.com/nodemailer/nodemailer) - 邮件发送。 ![](https://img.shields.io/github/stars/nodemailer/nodemailer.svg?style=social&label=Star)
+- [pkg](https://github.com/vercel/pkg) - 该命令行界面使您能够将 Node.js 项目打包为可执行文件，即使在没有安装 Node.js 的设备上也可以运行该可执行文件。 ![](https://img.shields.io/github/stars/vercel/pkg.svg?style=social&label=Star)
+- [Nano ID](https://github.com/ai/nanoid) - 个小巧、安全、URL 友好、唯一的 JavaScript 字符串 ID 生成器。 ![](https://img.shields.io/github/stars/ai/nanoid.svg?style=social&label=Star)
