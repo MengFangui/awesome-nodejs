@@ -160,7 +160,7 @@
   - [tmp-promise](https://www.npmjs.com/package/tmp-promise) - 创建临时目录或者文件
   - [recursive-readdir](https://www.npmjs.com/package/recursive-readdir) - 递归读取文件
   - [slash](https://github.com/sindresorhus/slash#readme) - 将 Windows 反斜杠路径转换为斜杠路径。![](https://img.shields.io/github/stars/sindresorhus/slash.svg?style=social&label=Star)
-  - [find-up](github.com/sindresorhus/find-up) - 通过遍历父目录来查找文件或目录。
+  - [find-up](github.com/sindresorhus/find-up) - 通过遍历父目录来查找文件或目录。.
   - [pkg-dir](github.com/sindresorhus/pkg-dir) - 查找 node.js 项目或 npm 包的根目录。
   - [StreamSaver](https://github.com/jimmywarting/StreamSaver.js) - 根据我搜索的结果，StreamSaver.js 是一个 JavaScript 库，它可以将流数据直接异步写入文件系统，而不需要占用大量的内存或受到 Blob 大小的限制（StreamSaver.js 可以下载大文件。它可以处理超过 2GB 的文件，而不需要占用大量的内存或受到 Blob 大小的限制 。）下载大文件，如超过 2GB 的数据文件；下载多个文件的压缩包或合并文件；下载服务器端返回的流数据 3
 
